@@ -7,4 +7,7 @@ public class firstClass {
     public void test(){
         System.out.printf("nihao");
     }
+    public void test1(){
+        System.out.printf("nide");
+    }
 }
