@@ -9,5 +9,6 @@ public class firstClass {
     }
     public void test1(){
         System.out.printf("nide");
+        System.out.println("woshinidaye");
     }
 }
